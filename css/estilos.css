@@ -1,0 +1,257 @@
+* {
+  font-family: 'Dosis', sans-serif;
+}
+.tituloPrincipal {
+  font-size: calc(2em + 6vw);
+  /* font-weight: 150; */
+  /* padding-top: 8rem; */
+  /* padding-bottom: 8rem; */
+  /* color: white; */
+}
+.centrar {
+  text-align: center;
+}
+.justificar {
+  text-align: justify;
+}
+.fotoPortada {
+  height: 100%;
+}
+.textoBlanco {
+  color: white;
+}
+header.masthead {
+  background: no-repeat center center;
+  background-color: #868e96;
+  background-attachment: scroll;
+  position: relative;
+  background-size: cover;
+  /* opacity: 0.9; */
+  min-height: calc(2em + 30vw);
+}
+.iconos {
+  max-width: 200px;
+  vertical-align: middle;
+  align-self: center;
+  page-break-inside: auto;
+}
+.divider {
+  padding-top: 0.6rem;
+  background-color: #fff;
+}
+
+.loteo {
+  color: rgb(0, 0, 0);
+  padding-top: 2.5rem;
+}
+
+.fotoPermacultura {
+  width: 100%;
+  /* height: 100%; */
+}
+.foto-card-goteo {
+  height: 100%;
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 72px);
+  background: linear-gradient(
+      to bottom,
+      rgba(92, 77, 66, 0.413) 0,
+      rgba(92, 77, 66, 0.386) 100%
+    ),
+    url(../img/fotos/gotaDeAgua.jpg);
+  /* src="./img/talleresGrupales.jpeg" */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.foto-card-parcela {
+  height: 100%;
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 72px);
+  background: linear-gradient(
+      to bottom,
+      rgba(92, 77, 66, 0.413) 0,
+      rgba(92, 77, 66, 0.386) 100%
+    ),
+    url(../img/fotos/volcan.jpg);
+  /* src="./img/talleresGrupales.jpeg" */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.foto-card-comunes {
+  height: 100%;
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 72px);
+  background: linear-gradient(
+      to bottom,
+      rgba(92, 77, 66, 0.413) 0,
+      rgba(92, 77, 66, 0.386) 100%
+    ),
+    url(../img/fotos/terreno.jpeg);
+  /* src="./img/talleresGrupales.jpeg" */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.foto-card-vivienda {
+  width: 100%;
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 72px);
+  background: linear-gradient(
+      to bottom,
+      rgba(92, 77, 66, 0.413) 0,
+      rgba(92, 77, 66, 0.386) 100%
+    ),
+    url(../img/IMG_5340.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.foto-card-alimentacion {
+  width: 100%;
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 72px);
+  background: linear-gradient(
+      to bottom,
+      rgba(92, 77, 66, 0.413) 0,
+      rgba(92, 77, 66, 0.386) 100%
+    ),
+    /* url(../img/IMG_5340.jpg); */ url(../img/huertaAlimentacion.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.foto-card-escuela {
+  height: 100%;
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 72px);
+  background: linear-gradient(
+      to bottom,
+      rgba(92, 77, 66, 0.413) 0,
+      rgba(92, 77, 66, 0.386) 100%
+    ),
+    url(../img/fotos/semillas.jpg);
+  /* src="./img/talleresGrupales.jpeg" */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.foto-card-restaurante {
+  width: 100%;
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 72px);
+  background: linear-gradient(
+      to bottom,
+      rgba(92, 77, 66, 0.413) 0,
+      rgba(92, 77, 66, 0.386) 100%
+    ),
+    url(../img/fotos/yoga.jpg);
+  /* src="./img/talleresGrupales.jpeg" */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.foto-card-diversidad {
+  width: 100%;
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 72px);
+  background: linear-gradient(
+      to bottom,
+      rgba(92, 77, 66, 0.413) 0,
+      rgba(92, 77, 66, 0.386) 100%
+    ),
+    url(../img/corredor.jpg);
+  /* src="./img/talleresGrupales.jpeg" */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.foto-card-practicas {
+  width: 100%;
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 72px);
+  background: linear-gradient(
+      to bottom,
+      rgba(92, 77, 66, 0.413) 0,
+      rgba(92, 77, 66, 0.386) 100%
+    ),
+    url(../img/practicas.jpg);
+  /* src="./img/talleresGrupales.jpeg" */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.imagenModales {
+  max-height: 400px;
+  /* width: auto; */
+  /* los siguientes valores son independientes del tamaño del círculo */
+  /* background-repeat: no-repeat;
+  background-position: 50%; */
+  border-radius: 50%;
+}
+.loteoFisico {
+  width: 100%;
+}
+.textoModales {
+  vertical-align: middle;
+}
+.fotosComunidad {
+  width: 100%;
+  height: 100%;
+}
+.close {
+  float: right;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #000;
+  text-shadow: 0 1px 0 #fff;
+  opacity: 0.5;
+}
+.close:hover {
+  color: #000;
+  text-decoration: none;
+}
+.close:not(:disabled):not(.disabled):hover,
+.close:not(:disabled):not(.disabled):focus {
+  opacity: 0.75;
+}
+
+button.close {
+  padding: 0;
+  background-color: transparent;
+  border: 0;
+}
+.card {
+  /* border: 0px; */
+}
+.redondeado {
+  border-radius: 7%;
+}
+.imagenesComunidad {
+  width: 100%;
+  height: 100%;
+}
+.tercerTitulo {
+  padding-bottom: 0px;
+}
+.fotosGaleria {
+  max-height: 600px;
+  /* width: 100%; */
+  display: block;
+  margin: auto;
+}
+.colorTextos {
+  color: #000;
+}
