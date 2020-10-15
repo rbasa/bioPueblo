@@ -281,3 +281,63 @@ button.close {
   opacity: 0.7;
   z-index: 1;
 }
+.creamos {
+  width: 100%;
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 72px);
+  background: linear-gradient(
+      to bottom,
+      rgba(92, 77, 66, 0.413) 0,
+      rgba(92, 77, 66, 0.386) 100%
+    ),
+    url(../img/creamos.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.vivienda {
+  width: 100%;
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 72px);
+  background: linear-gradient(
+      to bottom,
+      rgba(92, 77, 66, 0.413) 0,
+      rgba(92, 77, 66, 0.386) 100%
+    ),
+    url(../img/vivienda.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.alimentacion {
+  width: 100%;
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 72px);
+  background: linear-gradient(
+      to bottom,
+      rgba(92, 77, 66, 0.413) 0,
+      rgba(92, 77, 66, 0.386) 100%
+    ),
+    url(../img/alimentacion.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.comunidad {
+  width: 100%;
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 72px);
+  background: linear-gradient(
+      to bottom,
+      rgba(92, 77, 66, 0.413) 0,
+      rgba(92, 77, 66, 0.386) 100%
+    ),
+    url(../img/comunidad.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
