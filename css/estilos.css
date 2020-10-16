@@ -288,9 +288,9 @@ button.close {
   background: linear-gradient(
       to bottom,
       rgba(92, 77, 66, 0.413) 0,
-      rgba(92, 77, 66, 0.386) 100%
+      rgba(173, 123, 87, 0.386) 100%
     ),
-    url(../img/creamos.jpeg);
+    url(../img/fotosBioPueblo/20.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
